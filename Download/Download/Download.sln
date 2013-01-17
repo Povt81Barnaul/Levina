@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Download", "Download\Download.csproj", "{BC2A1756-5F15-4354-AD7E-B835FD9F3DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{2A992F26-E7B0-4088-90C1-BD8CE7B82E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadLibrary", "DownloadLibrary\DownloadLibrary.csproj", "{48709ECD-D4FD-46EB-A781-3EE0731691D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC2A1756-5F15-4354-AD7E-B835FD9F3DF7}.Debug|x86.ActiveCfg = Debug|x86
+		{BC2A1756-5F15-4354-AD7E-B835FD9F3DF7}.Debug|x86.Build.0 = Debug|x86
+		{BC2A1756-5F15-4354-AD7E-B835FD9F3DF7}.Release|x86.ActiveCfg = Release|x86
+		{BC2A1756-5F15-4354-AD7E-B835FD9F3DF7}.Release|x86.Build.0 = Release|x86
+		{2A992F26-E7B0-4088-90C1-BD8CE7B82E30}.Debug|x86.ActiveCfg = Debug|x86
+		{2A992F26-E7B0-4088-90C1-BD8CE7B82E30}.Debug|x86.Build.0 = Debug|x86
+		{2A992F26-E7B0-4088-90C1-BD8CE7B82E30}.Release|x86.ActiveCfg = Release|x86
+		{2A992F26-E7B0-4088-90C1-BD8CE7B82E30}.Release|x86.Build.0 = Release|x86
+		{48709ECD-D4FD-46EB-A781-3EE0731691D7}.Debug|x86.ActiveCfg = Debug|x86
+		{48709ECD-D4FD-46EB-A781-3EE0731691D7}.Debug|x86.Build.0 = Debug|x86
+		{48709ECD-D4FD-46EB-A781-3EE0731691D7}.Release|x86.ActiveCfg = Release|x86
+		{48709ECD-D4FD-46EB-A781-3EE0731691D7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

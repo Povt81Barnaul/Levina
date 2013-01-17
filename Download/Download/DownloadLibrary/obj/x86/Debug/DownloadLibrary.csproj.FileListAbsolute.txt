@@ -1,0 +1,5 @@
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\DownloadLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\DownloadLibrary\bin\Debug\DownloadLibrary.dll
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\DownloadLibrary\bin\Debug\DownloadLibrary.pdb
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\DownloadLibrary\obj\x86\Debug\DownloadLibrary.dll
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\DownloadLibrary\obj\x86\Debug\DownloadLibrary.pdb

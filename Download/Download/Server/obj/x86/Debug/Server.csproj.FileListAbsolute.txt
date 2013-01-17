@@ -1,0 +1,7 @@
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Server\bin\Debug\Server.exe
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Server\bin\Debug\Server.pdb
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Server\obj\x86\Debug\Server.exe
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Server\obj\x86\Debug\Server.pdb
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Server\bin\Debug\DownloadLibrary.dll
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Server\bin\Debug\DownloadLibrary.pdb

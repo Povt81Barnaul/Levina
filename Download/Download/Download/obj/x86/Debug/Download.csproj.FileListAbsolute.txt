@@ -1,0 +1,14 @@
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\bin\Debug\Download.exe
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\bin\Debug\Download.pdb
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\obj\x86\Debug\Download.AddDownloadForm.resources
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\obj\x86\Debug\Download.MainForm.resources
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\obj\x86\Debug\Download.Properties.Resources.resources
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\obj\x86\Debug\Download.exe
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\obj\x86\Debug\Download.pdb
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\bin\Debug\Download.exe.config
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\obj\x86\Debug\Download.FormSetting.resources
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\bin\Debug\DownloadLibrary.dll
+C:\Users\Алёна\Documents\Visual Studio 2008\Projects\Download\Download\bin\Debug\DownloadLibrary.pdb
